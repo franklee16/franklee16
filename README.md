@@ -24,8 +24,6 @@ The ones people use most.
 
 📈 [**real-time-market-case**](https://github.com/franklee16/real-time-market-case) (<!--stars:real-time-market-case-->15<!--/stars--> stars) - Generate a 5-slide Beamer "Today's Market Case" deck connecting recent financial news to the week's course topic
 
-🏦 [**monetary-policy-statement-database**](https://github.com/franklee16/monetary-policy-statement-database) (<!--stars:monetary-policy-statement-database-->10<!--/stars--> stars) - A comprehensive collection of central bank communications (MPSD)
-
 📝 [**paper-revision**](https://github.com/franklee16/paper-revision) (<!--stars:paper-revision-->7<!--/stars--> stars) - Handle journal Revise and Resubmit (R&R) decisions
 
 ---
@@ -39,8 +37,6 @@ Tools for the academic pipeline — review, revision, dissemination, data.
 📝 [**paper-revision**](https://github.com/franklee16/paper-revision) (<!--stars:paper-revision-->7<!--/stars--> stars) - Handle journal Revise and Resubmit (R&R) decisions
 
 📣 [**paper-to-social**](https://github.com/franklee16/paper-to-social) - Turn a paper into platform-native posts (LinkedIn, X, 小红书, Substack)
-
-🏦 [**monetary-policy-statement-database**](https://github.com/franklee16/monetary-policy-statement-database) (<!--stars:monetary-policy-statement-database-->10<!--/stars--> stars) - Central bank communications, comprehensive collection
 
 ---
 
