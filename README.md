@@ -18,13 +18,13 @@ A comprehensive collection of Claude Code skills covering the full research pipe
 
 The ones people use most.
 
-🧠 [**academic-research-skills**](https://github.com/franklee16/academic-research-skills) (<!--stars:academic-research-skills-->223<!--/stars--> stars) - Claude Code skills for academic research in economics, finance, and social sciences
+🧠 [**academic-research-skills**](https://github.com/franklee16/academic-research-skills) (<!--stars:academic-research-skills-->226<!--/stars--> stars) - Claude Code skills for academic research in economics, finance, and social sciences
 
 🏛️ [**hbs-case-writer**](https://github.com/franklee16/hbs-case-writer) (<!--stars:hbs-case-writer-->22<!--/stars--> stars) - Harvard Business School-style teaching cases on financial market events
 
 📈 [**real-time-market-case**](https://github.com/franklee16/real-time-market-case) (<!--stars:real-time-market-case-->15<!--/stars--> stars) - Generate a 5-slide Beamer "Today's Market Case" deck connecting recent financial news to the week's course topic
 
-📝 [**paper-revision**](https://github.com/franklee16/paper-revision) (<!--stars:paper-revision-->7<!--/stars--> stars) - Handle journal Revise and Resubmit (R&R) decisions
+📝 [**paper-revision**](https://github.com/franklee16/paper-revision) (<!--stars:paper-revision-->8<!--/stars--> stars) - Handle journal Revise and Resubmit (R&R) decisions
 
 ---
 
@@ -34,7 +34,7 @@ Tools for the academic pipeline — review, revision, dissemination, data.
 
 👥 [**scholarpeer-econ**](https://github.com/franklee16/scholarpeer-econ) (<!--stars:scholarpeer-econ-->2<!--/stars--> stars) - Multi-agent peer review simulation for finance and economics manuscripts
 
-📝 [**paper-revision**](https://github.com/franklee16/paper-revision) (<!--stars:paper-revision-->7<!--/stars--> stars) - Handle journal Revise and Resubmit (R&R) decisions
+📝 [**paper-revision**](https://github.com/franklee16/paper-revision) (<!--stars:paper-revision-->8<!--/stars--> stars) - Handle journal Revise and Resubmit (R&R) decisions
 
 📣 [**paper-to-social**](https://github.com/franklee16/paper-to-social) - Turn a paper into platform-native posts (LinkedIn, X, 小红书, Substack)
 
