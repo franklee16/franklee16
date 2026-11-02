@@ -18,7 +18,7 @@ A comprehensive collection of Claude Code skills covering the full research pipe
 
 The ones people use most.
 
-🧠 [**academic-research-skills**](https://github.com/franklee16/academic-research-skills) (<!--stars:academic-research-skills-->226<!--/stars--> stars) - Claude Code skills for academic research in economics, finance, and social sciences
+🧠 [**academic-research-skills**](https://github.com/franklee16/academic-research-skills) (<!--stars:academic-research-skills-->231<!--/stars--> stars) - Claude Code skills for academic research in economics, finance, and social sciences
 
 🏛️ [**hbs-case-writer**](https://github.com/franklee16/hbs-case-writer) (<!--stars:hbs-case-writer-->22<!--/stars--> stars) - Harvard Business School-style teaching cases on financial market events
 
